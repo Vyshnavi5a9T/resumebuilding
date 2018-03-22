@@ -23,5 +23,20 @@
 "college":["Ravindra school",
   "2012-2013",
   "93"]
-}]
+}
+],
+"skills":[
+  {
+    "name":"web technologies",
+    "value":"HTML,CSS"
+  },
+  {
+    "name":"operating system",
+    "value":"Linux,windows"
+  },
+  {
+    "name":"Programming Languages",
+    "value":"C,C++,java"
+  }
+]
 }
